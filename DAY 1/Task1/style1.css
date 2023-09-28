@@ -1,0 +1,21 @@
+.center{
+    text-align: center;
+
+}
+.box{
+    background-color: rgb(144, 238, 144);
+    border:1px solid lightgray;
+    margin:30px auto;
+    width:400px;
+    height:280px;
+    padding:14px 32px;
+    border-radius: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    padding:14px 32px;
+    border:1px solid lightgray;
+    border-radius: 15px;
+    font-style: bold;
+    font-size: 16px;
+}
